@@ -1,10 +1,10 @@
-### Hi! 👋 I'm Taufik Alex.
+### Hi! 👋 I'm Arif Rahman.
 
 An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
 
-- 🔭 I’m currently working on <a href="https://delameta.com">PT. Delameta Bilano</a>
+- 🔭 I’m currently working on <a href="https://ztech.dev">Zetta Agency</a>
 - 💬 Feel free to ask me about web development or JavaScript
-- 📫 How to reach me: taufikalexx13@gmail.com
+- 📫 How to reach me: arif,rahman.rhm@gmail.com
 - ⚡ Fun fact: Will be Father of a daughter
 
 ### Tech Stack
@@ -17,12 +17,12 @@ An independent Software Engineer who loves to create and share projects about we
   
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/TaufikAlex">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TaufikAlex&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TaufikAlex&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/arifrhm">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arifrhm&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arifrhm&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 ### Reach me on
-- <a href="https://id.linkedin.com/in/taufikalex">LinkedIn</a>
-- taufikalexx13@gmail.com
+- <a href="https://id.linkedin.com/in/arifrahmanrhm">LinkedIn</a>
+- arif.rahman.rhm@gmail.com
