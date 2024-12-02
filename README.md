@@ -4,8 +4,7 @@ An independent Software Engineer who loves to create and share projects about we
 
 - 🔭 I’m currently working on <a href="https://ztech.dev">Zetta Agency</a>
 - 💬 Feel free to ask me about web development or JavaScript
-- 📫 How to reach me: arif,rahman.rhm@gmail.com
-- ⚡ Fun fact: Will be Father of a daughter
+- 📫 How to reach me: arif.rahman.rhm@gmail.com
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
